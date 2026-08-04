@@ -1,10 +1,27 @@
-# Hello, I'm Brando Santana
-<a href="https://linkedin.com/in/brando-santana-aa4230257"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Hi, I'm Brando 👋
 
+🎓 Computer Science Graduate
+🔒 Aspiring IT & Cybersecurity Professional
+📍 Florida
 
-I am a college student with a profound interest in technology and a dedication to solving complex problems.
+Currently:
+• Studying for CompTIA Security+
+• Building cybersecurity and IT projects
+• Seeking entry-level IT/Cybersecurity opportunities
 
-## Objective
+Technical Skills
 
+• Python
+• C++
+• JavaScript
+• React
+• SQL
+• Linux
+• Git
+• Networking
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Links
+
+🌐 Portfolio: https://brandosantana.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/in/brando-santana-aa4230257/
+📧 Email: brandosp05@gmail.com
